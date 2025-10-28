@@ -4,6 +4,8 @@
   "version": "1.0",
   "author": "Dein Name",
   "category": "visualization",
+  "vendor": "",
+  "aliases": [],
   "type": 3,
   "prefix": "sankey"
 }
