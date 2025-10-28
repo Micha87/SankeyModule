@@ -4,6 +4,8 @@
   "version": "1.0",
   "author": "Dein Name",
   "category": "visualization",
+  "parentRequirements": [],
+  "childRequirements": [],
   "vendor": "",
   "aliases": [],
   "type": 3,
