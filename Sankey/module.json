@@ -4,5 +4,6 @@
   "version": "1.0",
   "author": "Dein Name",
   "category": "visualization",
-  "guid": "{8BDE1F7E-1234-4A56-89AB-1234567890AB}"
+  "type": 3,
+  "prefix": "sankey"
 }
