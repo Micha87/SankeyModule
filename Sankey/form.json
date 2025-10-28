@@ -1,0 +1,9 @@
+{
+  "elements": [
+    {"type": "SelectModule", "name": "PV", "caption": "PV Variablen", "multiple": true},
+    {"type": "SelectModule", "name": "Battery", "caption": "Batterie Variable"},
+    {"type": "SelectModule", "name": "Grid", "caption": "Netz Variable"},
+    {"type": "SelectModule", "name": "Consumers", "caption": "Verbraucher Variablen", "multiple": true},
+    {"type": "NumberSpinner", "name": "UpdateInterval", "caption": "Update Intervall (s)", "minimum": 1, "maximum": 3600}
+  ]
+}
